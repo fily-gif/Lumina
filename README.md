@@ -1,6 +1,8 @@
 # THIS IS A FORK OF [THIS PROJECT](github.com/forrestchang/gptlang).
 ## this is "my" own programming language, Lumina, created by Chat-GPT too.
 
+> Still WIP.
+
 # Introduction
 
 This repo is an experiment to see if we can create a programming language in GPT-4.
